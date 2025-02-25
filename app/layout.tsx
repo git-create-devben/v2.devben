@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <script src="https://counterapi.com/c.js" async defer></script>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

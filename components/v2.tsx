@@ -50,7 +50,7 @@ const V2 = () => {
             <div className="md:hidden flex flex-col item-center justify-center text-center col-span-3 row-span-1 bg-[#1D8D0BC] p-6 rounded-lg border-[1px] border-gray-600">
                             <div className="counterapi m-h-2xl" aria-readonly></div>
 
-                            <h1 className='text-7xl font-extra-bold'>DEV⚡BEN </h1>
+                            <h1 className='md:text-7xl text-6xl font-extra-bold'>DEV⚡BEN </h1>
                             <p className='text-md font-bold mt-3'>Front-end developer 💡 building the future of the web 🌐 one pixel at a time 🖥️.</p>
                         </div>
                 <div className="grid md:grid-cols-3 grid-cols-2 md:grid-rows-3 gap-2 md:p-5 py-3 bg-[#000000] min-h-screen text-white">
